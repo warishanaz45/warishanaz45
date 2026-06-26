@@ -2,7 +2,7 @@
 
 # 👩‍💻 Warisha Abdul Rahim
 
-### Frontend Developer · React & Next.js · AI Enthusiast
+### Full Stack Developer · AI Agents Developers
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2563EB&center=true&vCenter=true&width=500&lines=Frontend+Developer;React+%26+Next.js+Specialist;Building+Modern+Web+Apps;GIAIC+Batch+1+%7C+Karachi%2C+Pakistan)](https://git.io/typing-svg)
 
@@ -12,7 +12,7 @@
 
 ## 🙋‍♀️ About Me
 
-Hi! I'm **Warisha**, a passionate **Frontend Developer** from Karachi, Pakistan 🇵🇰
+Hi! I'm **Warisha**, a passionate **Full stack Developer** from Karachi, Pakistan 🇵🇰
 
 - 🎓 Currently enrolled in **GIAIC** (Governor's Initiative for AI & Computing) — Batch 1
 - 💻 Building full-stack web apps with **Next.js**, **React**, and **TypeScript**
